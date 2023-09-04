@@ -8,3 +8,10 @@
 /home/tygrak/Programming/Dotnet/NN/obj/Debug/netcoreapp2.0/NN.AssemblyInfo.cs
 /home/tygrak/Programming/Dotnet/NN/obj/Debug/netcoreapp2.0/NN.dll
 /home/tygrak/Programming/Dotnet/NN/obj/Debug/netcoreapp2.0/NN.pdb
+C:\Working\NeurondotNet\obj\Debug\netcoreapp2.0\NN.csproj.AssemblyReference.cache
+C:\Working\NeurondotNet\obj\Debug\netcoreapp2.0\NN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working\NeurondotNet\obj\Debug\netcoreapp2.0\NN.AssemblyInfoInputs.cache
+C:\Working\NeurondotNet\obj\Debug\netcoreapp2.0\NN.AssemblyInfo.cs
+C:\Working\NeurondotNet\obj\Debug\netcoreapp2.0\NN.csproj.CoreCompileInputs.cache
+C:\Working\NeurondotNet\obj\Debug\netcoreapp2.0\NN.dll
+C:\Working\NeurondotNet\obj\Debug\netcoreapp2.0\NN.pdb
